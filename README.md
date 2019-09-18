@@ -22,4 +22,9 @@ E é uma das ferramentas que auxiliam no desenvolvimento, podemos adicionar plug
 
 Depois da instalação, abra o Visual Code e vamos adicionar o plugin **JavaScript and TypeScript IntelliSense**
 
+Seguindo os passos:
+- Clique no ícone Extensions ou use (Ctrl + Shift + X)
+- Digitando na caixa de pesquisa JavaScript and TypeScript IntelliSense
+- Selecione na lista de extenções e instale
+
 ![JavaScript and TypeScript IntelliSense](/Image/Requisitos02.png)
