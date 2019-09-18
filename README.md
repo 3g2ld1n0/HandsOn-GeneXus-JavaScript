@@ -19,3 +19,7 @@ A Netscape chegou à conclusão que a web teria que se tornar mais dinâmica, po
 E é uma das ferramentas que auxiliam no desenvolvimento, podemos adicionar plugs para C#, JavaScript, SQL, React, TypeScript e muitos outros.
 
 ![Sistemas Operacionais](/Image/Requisitos01.png)
+
+Depois da instalação, abra o Visual Code e vamos adicionar o plugin **JavaScript and TypeScript IntelliSense**
+
+![JavaScript and TypeScript IntelliSense](/Image/Requisitos02.png)
