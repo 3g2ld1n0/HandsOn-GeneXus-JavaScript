@@ -18,4 +18,4 @@ A Netscape chegou à conclusão que a web teria que se tornar mais dinâmica, po
 
 E é uma das ferramentas que auxiliam no desenvolvimento, podemos adicionar plugs para C#, JavaScript, SQL, React, TypeScript e muitos outros.
 
-![Sistemas Operacionais](../Image/Requisitos01.png)
+![Sistemas Operacionais](/Image/Requisitos01.png)
