@@ -67,3 +67,7 @@ Copie o seguinte código para e salve o arquivo.
 
 </html>
 ```
+
+Fazer o download do arquivo atividade1.zip. Descompactar e copiar os arquivos para a pasta **C:\HandsOn-GeneXus-JavaScript**
+
+- [Atividade1.zip](https://github.com/mshimao/Hands-On-Cloud-Native-com-Genexus/blob/master/docs/atividade/atividade4.zip)
