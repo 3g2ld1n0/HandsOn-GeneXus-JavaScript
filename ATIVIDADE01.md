@@ -13,7 +13,57 @@ Escolha a pasta criada e clique em **Select Folder**
 
 ![Escolher Pasta](/Image/Requisitos06.png)
 
-Crie um arquivo selecionando a opção **1** e em seguindo nomeando-o **Atividade01.html** conforme opção **2**
+Crie um arquivo selecionando a opção **1** em seguida nomeando-o **Atividade01.html** conforme opção **2** e tecle **Enter**
 
 ![Criando arquivo](/Image/Requisitos07.png)
 
+Copie o seguinte código para e salve o arquivo.
+
+```html
+<!DOCTYPE html>
+<html>
+
+<body>
+    <h2>O que o JavaScript pode fazer?</h2>
+    <h3>JavaScript pode mudar os valores dos atributos HTML.</h3>
+    <div>
+        <h2>Nesse caso JavaScript muda o atributo src(source) de uma imagem.</h2>
+        <button onclick="document.getElementById('myImage').src='pic_bulbon.gif'">Ligar</button>
+        <img id="myImage" src="pic_bulboff.gif" style="width:100px">
+        <button onclick="document.getElementById('myImage').src='pic_bulboff.gif'">Desligar</button>
+    </div>
+
+    <div>
+        <h2>Nesse caso apresentamos a Data e Hora</h2>
+        <button type="button" onclick="document.getElementById('demo').innerHTML = Date()">Clique para exibir a data e
+            hora.</button>
+        <p id="demo"></p>
+    </div>
+
+    <div>
+        <h2>Nesse caso será alterado o estilo</h2>
+        <p id="demo2">JavaScript pode mudar os valores dos atributos HTML.</p>
+        <button type="button" onclick="document.getElementById('demo2').style.fontSize='35px'">Clique!</button>
+    </div>
+
+    <div>
+        <h2>Neste caso será escondido/exibido</h2>
+        <p id="demo3">JavaScript pode mudar os valores dos atributos HTML.</p>
+        <button type="button" onclick="document.getElementById('demo3').style.display='none'">Esconder</button>
+        <button type="button" onclick="document.getElementById('demo3').style.display='block'">Exibir</button>
+    </div>
+
+    <div>
+        <h2>Neste caso será efetuado um calculo</h2>
+        <p>JavaScript pode mudar os valores dos atributos HTML.</p>
+        <span>O resultado (0.2*10 + 0.1*10) / 10 = </span>
+        <span id="demo4">?</span>
+        <p></p>
+        <button type="button"
+            onclick="document.getElementById('demo4').innerHTML = (0.2*10 + 0.1*10) / 10">Calcular</button>
+    </div>
+
+</body>
+
+</html>
+```
