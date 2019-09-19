@@ -17,7 +17,7 @@ Crie um arquivo selecionando a opção **1** em seguida nomeando-o **Atividade01
 
 ![Criando arquivo](/Image/Requisitos07.png)
 
-Copie o seguinte código para e salve o arquivo.
+Copie o seguinte código para o arquivo e salve
 
 ```html
 <!DOCTYPE html>
@@ -73,3 +73,5 @@ Fazer o download do arquivo atividade1.zip. Descompactar e copiar os arquivos pa
 - [Atividade1.zip](https://github.com/3g2ld1n0/HandsOn-GeneXus-JavaScript/blob/master/Arquivos/Atividade01.zip)
 
 Abra o arquivo HTML criado e vamos ver o resultado
+
+Próxima atividade: [Atividade 02](ATIVIDADE02.md)
