@@ -28,3 +28,15 @@ Seguindo os passos:
 - Selecione na lista de extenções e instale
 
 ![JavaScript and TypeScript IntelliSense](/Image/Requisitos02.png)
+
+**NodeJS** https://nodejs.org/en/, ele também pode ser instalado para os sistemas operacionais, :)
+
+NodeJS é um runtime JavaScript assíncrono orientado a eventos, o Node.js foi projetado para criar aplicativos de rede escaláveis.
+
+Baixe a versão **10.16.3 LTS** e execute o arquivo **node-v10.16.3-x64.msi**
+
+![NodeJs](/Image/Requisitos03.png)
+
+Complete o Wizard de instalação até o fim.
+
+![NodeJs setup Wizard](/Image/Requisitos04.png)
