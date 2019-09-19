@@ -40,3 +40,7 @@ Baixe a versão **10.16.3 LTS** e execute o arquivo **node-v10.16.3-x64.msi**
 Complete o Wizard de instalação até o fim.
 
 ![NodeJs setup Wizard](/Image/Requisitos04.png)
+
+Concluindo a instalação vamos iniciar as atividades usando o **Visual Code**
+
+Próxima atividade: [Atividade 01](ATIVIDADE01.md)
