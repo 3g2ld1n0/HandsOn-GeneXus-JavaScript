@@ -120,8 +120,12 @@ Usando esse recurso dos navegadores, podemos realizar ajustes durante a execuç�
 
 Não menos importante :), podemos perceber na área de script as varíaveis. 
 
+![Variáveis](/Image/Requisitos10.png)
+
 Exemplos de criação de váriaveis.
 
-![Variáveis](/Image/Requisitos10.png)
+![Variáveis](/Image/Requisitos11.png)
+
+Notem que para o JavaScript existe uma situação que a ordem dos "Tratores" sim, altera o "Viadulto". E trabalhando com desenvolvimento, não importa muito o código que você está escrevendo, mas sim o que foi gerado.
 
 Próxima atividade: [Atividade 04](ATIVIDADE04.md)
