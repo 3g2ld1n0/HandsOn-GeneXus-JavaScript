@@ -129,6 +129,6 @@ Exemplos de criação de váriaveis.
 ### Dicas  
 Notem que para o JavaScript existe uma situação que a ordem dos "Tratores" sim, altera o "Viadulto". 
 
-E trabalhando com desenvolvimento, não importa muito o código que você está escrevendo, mas sim o que foi gerado.
+E trabalhando com desenvolvimento web, não importa o código que você está escrevendo, mas sim o que foi gerado.
 
 Próxima atividade: [Atividade 04](ATIVIDADE04.md)

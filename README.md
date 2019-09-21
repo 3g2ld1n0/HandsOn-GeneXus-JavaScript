@@ -43,4 +43,14 @@ Complete o Wizard de instalação até o fim.
 
 Concluindo a instalação vamos iniciar as atividades usando o **Visual Code**.
 
+**TypeScript**
+
+Para instalar o TypeScript, vamos abrir o terminal do Visual Code, no menu **Terminal** e depois submenu **New Terminal**`
+
+![Novo Terminal](/Image/Requisitos12.png)
+
+Em seguida executar o seguinte comando **npm install -g typescript** chegando ao seguinte resultado
+
+![Novo Terminal](/Image/Requisitos13.png)
+
 Próxima atividade: [Atividade 01](ATIVIDADE01.md)
