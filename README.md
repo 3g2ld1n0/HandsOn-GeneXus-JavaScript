@@ -16,31 +16,31 @@ A Netscape chegou à conclusão que a web teria que se tornar mais dinâmica, po
 
 **Visual Code** https://code.visualstudio.com/download, pode ser instalado nos seguintes sistemas operacionais.
 
-E é uma das ferramentas que auxiliam no desenvolvimento, podemos adicionar plugs para C#, JavaScript, SQL, React, TypeScript e muitos outros
+E é uma das ferramentas que auxiliam no desenvolvimento, podemos adicionar plugs para C#, JavaScript, SQL, React, TypeScript e muitos outros.
 
 ![Sistemas Operacionais](/Image/Requisitos01.png)
 
-Depois da instalação, abra o Visual Code e vamos adicionar o plugin **JavaScript and TypeScript IntelliSense**
+Depois da instalação, abra o Visual Code e vamos adicionar o plugin **JavaScript and TypeScript IntelliSense**.
 
 Seguindo os passos:
-- Clique no ícone Extensions ou use (Ctrl + Shift + X)
-- Digitando na caixa de pesquisa JavaScript and TypeScript IntelliSense
-- Selecione na lista de extenções e instale
+- Clique no ícone Extensions ou use (Ctrl + Shift + X);
+- Digitando na caixa de pesquisa JavaScript and TypeScript IntelliSense;
+- Selecione na lista de extenções e instale;
 
 ![JavaScript and TypeScript IntelliSense](/Image/Requisitos02.png)
 
 **NodeJS** https://nodejs.org/en/, ele também pode ser instalado para os sistemas operacionais, :)
 
-NodeJS é um runtime JavaScript assíncrono orientado a eventos, o Node.js foi projetado para criar aplicativos de rede escaláveis
+NodeJS é um runtime JavaScript assíncrono orientado a eventos, o Node.js foi projetado para criar aplicativos de rede escaláveis.
 
-Baixe a versão **10.16.3 LTS** e execute o arquivo **node-v10.16.3-x64.msi**
+Baixe a versão **10.16.3 LTS** e execute o arquivo **node-v10.16.3-x64.msi**.
 
 ![NodeJs](/Image/Requisitos03.png)
 
-Complete o Wizard de instalação até o fim
+Complete o Wizard de instalação até o fim.
 
 ![NodeJs setup Wizard](/Image/Requisitos04.png)
 
-Concluindo a instalação vamos iniciar as atividades usando o **Visual Code**
+Concluindo a instalação vamos iniciar as atividades usando o **Visual Code**.
 
 Próxima atividade: [Atividade 01](ATIVIDADE01.md)

@@ -1,15 +1,15 @@
 # Atividade 02
-Nesta atividade vamos organizar melhor o código JavaScript, colocando em áreas específicas no documento/arquivo HTML
+Nesta atividade vamos organizar melhor o código JavaScript, colocando em áreas específicas no documento/arquivo HTML.
 
 ## Cabecalho (Head)
 
-No HTML, o JavaScript deve ser colocado entre as tags <script> e </script>
+No HTML, o JavaScript deve ser colocado entre as tags <script> e </script>.
 
-Neste exemplo, a função JavaScript é adicionada no seção <head> da página HTML
+Neste exemplo, a função JavaScript é adicionada no seção <head> da página HTML.
 
-A função é chamada quando o botão é clicado
+A função é chamada quando o botão é clicado.
 
-Crie um novo arquivo chamado de **Atividade02a.html** e copiei o código a seguir
+Crie um novo arquivo chamado de **Atividade02a.html** e copiei o código a seguir.
 
 ```html
 <!DOCTYPE html>
@@ -31,15 +31,15 @@ function myFunction() {
 </html>
 ```
 
-Abra o arquivo HTML criado e vamos ver o resultado
+Abra o arquivo HTML criado e vamos ver o resultado.
 
 ## Corpo (Body)
 
-Neste exemplo, a função JavaScript é adicionada no seção <body> da página HTML
+Neste exemplo, a função JavaScript é adicionada no seção <body> da página HTML.
 
-A função é chamada quando o botão é clicado
+A função é chamada quando o botão é clicado.
 
-Crie um novo arquivo chamado de **Atividade02b.html** e copiei o código a seguir
+Crie um novo arquivo chamado de **Atividade02b.html** e copiei o código a seguir.
 
 ```html
 <!DOCTYPE html>
@@ -60,6 +60,6 @@ function myFunction() {
 </html>
 ```
 
-Abra o arquivo HTML criado e vamos ver o resultado
+Abra o arquivo HTML criado e vamos ver o resultado.
 
 Próxima atividade: [Atividade 03](ATIVIDADE03.md)

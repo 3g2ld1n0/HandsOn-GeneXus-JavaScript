@@ -1,23 +1,23 @@
 # Atividade 01
-Para esta atividade vamos começar a ver na prática o que faz o JavaScript
+Para esta atividade vamos começar a ver na prática o que faz o JavaScript.
 
 ## Visual Code
 
-Vamos criar uma pasta de trabalho chamada **HandsOn-GeneXus-JavaScript** na unidade "C:\"
+Vamos criar uma pasta de trabalho chamada **HandsOn-GeneXus-JavaScript** na unidade "C:\".
 
-Abrindo o Visual Code, vamos selecionar essa pasta criada. Para isso escolha a opção **File** e em seguida **Open Folder**
+Abrindo o Visual Code, vamos selecionar essa pasta criada. Para isso escolha a opção **File** e em seguida **Open Folder**.
 
 ![Abrir Pasta](/Image/Requisitos05.png)
 
-Escolha a pasta criada e clique em **Select Folder**
+Escolha a pasta criada e clique em **Select Folder**.
 
 ![Escolher Pasta](/Image/Requisitos06.png)
 
-Crie um arquivo selecionando a opção **1** em seguida nomeando-o **Atividade01.html** conforme opção **2** e tecle **Enter**
+Crie um arquivo selecionando a opção **1** em seguida nomeando-o **Atividade01.html** conforme opção **2** e tecle **Enter**.
 
 ![Criando arquivo](/Image/Requisitos07.png)
 
-Copie o seguinte código para o arquivo e salve
+Copie o seguinte código para o arquivo e salve.
 
 ```html
 <!DOCTYPE html>
@@ -68,10 +68,10 @@ Copie o seguinte código para o arquivo e salve
 </html>
 ```
 
-Fazer o download do arquivo atividade1.zip. Descompactar e copiar os arquivos para a pasta **C:\HandsOn-GeneXus-JavaScript**
+Fazer o download do arquivo atividade1.zip. Descompactar e copiar os arquivos para a pasta **C:\HandsOn-GeneXus-JavaScript**.
 
 - [Atividade1.zip](https://github.com/3g2ld1n0/HandsOn-GeneXus-JavaScript/blob/master/Arquivos/Atividade01.zip)
 
-Abra o arquivo HTML criado e vamos ver o resultado
+Abra o arquivo HTML criado e vamos ver o resultado.
 
 Próxima atividade: [Atividade 02](ATIVIDADE02.md)
