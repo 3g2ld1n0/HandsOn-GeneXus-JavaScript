@@ -18,3 +18,4 @@ Abrindo o terminal do Visual Code
 
 Vamos digitar o comando **tsc Atividade05TS.ts** e pressione **Enter**
 
+![Abrindo Terminal](/Image/Requisitos16.png)
