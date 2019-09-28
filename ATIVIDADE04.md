@@ -3,7 +3,7 @@ Nesta atividade vamos pegar o primeiro arquivo de exercício, salvar como Ativid
 
 ## Resolução
 
-Arquivo JavaScript proposta como solução **atividade04.js**
+Arquivo JavaScript proposta como solução **Atividade04.js**
 
 ```JavaScript
 var ligado = false;
@@ -41,7 +41,7 @@ function ExibirEsconder() {
 }
 ```
 
-Arquivo HTML proposta como solução **atividade04.html**
+Arquivo HTML proposta como solução **Atividade04.html**
 
 ```HTML
 <!DOCTYPE html>

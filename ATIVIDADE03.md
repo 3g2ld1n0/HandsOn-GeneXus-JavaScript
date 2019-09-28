@@ -32,7 +32,7 @@ Na tag **link** e **script** estamos adicionado os arquivos de estilo CSS e scri
 
 Uma das tags **meta** a de nome **viewport** é adicionada para trabalhar na com a parte responsiva da página que será cuidade pelo Bootstrap.
 
-Crie um novo arquivo Atividade03.html e copie todo o código.
+Crie um novo arquivo **Atividade03.html** e copie todo o código.
 
 ```HTML
 <!DOCTYPE html>
