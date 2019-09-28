@@ -86,4 +86,6 @@ Antes de abrir o arquivo podemos dizer o que será executado para cada console?
 
 Conseguimos dizer o que está errado?
 
+Vamos abrir o arquivo no navegador e ver o resultado no console.
+
 Próxima atividade: [Atividade 06](ATIVIDADE06.md)
