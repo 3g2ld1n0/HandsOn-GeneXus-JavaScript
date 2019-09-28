@@ -22,7 +22,9 @@ Vamos digitar o comando **tsc Atividade05TS.ts** e pressione **Enter**
 
 Para concluir essa atividade vamos resolver todos os problemas já apontados pelo TypScript. 
 
-Quando resolvido todos os problemas e executando o comando no terminal novamente **tsc Atividade05TS.ts**. O arquivo JavaScript será criado **Atividade05TS.js**
+Quando resolvido todos os problemas e executando o comando no terminal novamente **tsc Atividade05TS.ts**. 
+
+O arquivo JavaScript será criado **Atividade05TS.js**.
 
 Vamos criar um novo arquivo chamado **Atividade05TS.html** e adicionar novo código criado pelo **TypeScript**
 
