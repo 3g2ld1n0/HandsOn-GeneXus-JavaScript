@@ -64,14 +64,6 @@ carro = { nome:'Gol', fabricante:'VW' };
 console.log('carro.nome =', carro.Nome);
 console.log('carro.fabricante =', carro.Fabricante);
 
-console.log('--- Arrays to string ---');
-ferramentas = ['Visual Studio', 'Visual Code', 'GeneXus', 'TypeScript'];
-console.log(ferramentas.ToString());
-
-console.log('--- Arrays to join ---');
-ferramentas = ['Visual Studio', 'Visual Code', 'GeneXus', 'TypeScript'];
-console.log(ferramentas.Join(';'));
-
 console.log('--- Comparação ---');
 a = 10;
 if (a == 10){
@@ -81,6 +73,14 @@ if (a == 10){
 if (a == '10'){
     console.log('O valor de "a" eh:', a);
 }
+
+console.log('--- Arrays to string ---');
+ferramentas = ['Visual Studio', 'Visual Code', 'GeneXus', 'TypeScript'];
+console.log(ferramentas.ToString());
+
+console.log('--- Arrays to join ---');
+ferramentas = ['Visual Studio', 'Visual Code', 'GeneXus', 'TypeScript'];
+console.log(ferramentas.Join(';'));
 ```
 Antes de abrir o arquivo podemos dizer o que será executado para cada console?
 

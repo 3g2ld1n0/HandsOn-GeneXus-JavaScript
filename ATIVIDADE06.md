@@ -10,4 +10,4 @@ Vamos criar um novo arquivo chamado **Atividade05TS.ts**, sem seguida copiar o c
 
 Após a cópia podemos já visualizar os alertas que são gerados pelo TypeScript.
 
-
+![TypeScript Erros](/Image/Requisitos15.png)
