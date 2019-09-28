@@ -61,16 +61,16 @@ console.log('(a + b) = c =', c);
 
 console.log('--- Objeto ---');
 carro = { nome:'Gol', fabricante:'VW' };
-console.log('carro.nome =', carro.nome);
-console.log('carro.fabricante =', carro.fabricante);
+console.log('carro.nome =', carro.Nome);
+console.log('carro.fabricante =', carro.Fabricante);
 
 console.log('--- Arrays to string ---');
 ferramentas = ['Visual Studio', 'Visual Code', 'GeneXus', 'TypeScript'];
-console.log(ferramentas.toString());
+console.log(ferramentas.ToString());
 
 console.log('--- Arrays to join ---');
 ferramentas = ['Visual Studio', 'Visual Code', 'GeneXus', 'TypeScript'];
-console.log(ferramentas.join(';'));
+console.log(ferramentas.Join(';'));
 
 console.log('--- Comparação ---');
 a = 10;
@@ -83,3 +83,7 @@ if (a == '10'){
 }
 ```
 Antes de abrir o arquivo podemos dizer o que será executado para cada console?
+
+Conseguimos dizer o que está errado?
+
+Próxima atividade: [Atividade 06](ATIVIDADE06.md)
