@@ -53,3 +53,4 @@ Em seguida executar o seguinte comando **npm install -g typescript** chegando ao
 
 ![Novo Terminal](/Image/Requisitos13.png)
 
+Próxima atividade: [Atividade 02](ATIVIDADE01.md)
