@@ -4,8 +4,6 @@ Nesta atividade vamos mostrar a criação de um User Control.
 
 ## Exercício
 
-# Atividade 09
-
 Vamos conhecer uma nova funcionalidade bem legal do GeneXus e também um novo framework.
 
 ## Semantic UI
