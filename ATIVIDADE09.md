@@ -2,13 +2,13 @@
 
 Nesta atividade vamos mostrar a criação de um User Control.
 
-## Exercício
-
-Vamos conhecer uma nova funcionalidade bem legal do GeneXus e também um novo framework.
-
 ## Semantic UI
 
 Da mesma forma que o BootStrap o **Semantic UI** possui uma série de componentes para agilizar o desenvolvimento.
+
+## Exercício
+
+Vamos conhecer uma nova funcionalidade bem legal do GeneXus e também um novo framework.
 
 No site https://semantic-ui.com você pode visualizar todos os componentes, inclusive baixar os arquivos para usar.
 
