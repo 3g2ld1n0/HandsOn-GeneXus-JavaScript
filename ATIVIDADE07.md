@@ -24,7 +24,7 @@ Adicionando no evento **Grid.Load** a seguinte linha **&View.Link = "JavaScript:
 
 Executando a aplicação vermos que a nova janela será aberta sem nenhuma chamada ao servidor.
 
-## JavaScript no Calculo
+## JavaScript no Calcular
 
 Para adicionar o arquivo JavaScript ao webpanel **Calcular** faremos da seguinte forma.
 
