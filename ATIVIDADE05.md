@@ -81,6 +81,8 @@ console.log(ferramentas.ToString());
 console.log('--- Arrays to join ---');
 ferramentas = ['Visual Studio', 'Visual Code', 'GeneXus', 'TypeScript'];
 console.log(ferramentas.Join(';'));
+
+alert('Tudo ok com nosso exemplo!');
 ```
 Antes de abrir o arquivo podemos dizer o que será executado para cada console?
 
