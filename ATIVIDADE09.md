@@ -2,6 +2,8 @@
 
 Nesta atividade vamos mostrar a criação de um User Control.
 
+**Documentação GeneXus** https://wiki.genexus.com/commwiki/servlet/wiki?39356,Category%3AUser+Control+object
+
 ## Semantic UI
 
 Da mesma forma que o BootStrap o **Semantic UI** possui uma série de componentes para agilizar o desenvolvimento.
@@ -14,7 +16,7 @@ No site https://semantic-ui.com você pode visualizar todos os componentes, incl
 
 ## User Control GeneXus
 
-Agora criar controles com belas apresentações no GeneXus ficou mais fácil. Com esses controles podemos usar os layouts, adicinando propriedades.
+Agora criar controles com belas apresentações no GeneXus ficou mais fácil. Com esses controles podemos usar os layouts, adicionando propriedades.
 
 Assim os controles poderam ser usados de modo nativo dentro do GeneXus.
 
@@ -28,7 +30,7 @@ Vamos criar um novo objeto e nomea-lo de **PeopleUC**
 
 A próxima etapa consiste em colocar dentro do controle o código **HTML** e **JavaScript** necessários para o controle.
 
-No site do vamos fazer o uso do **Cars** https://semantic-ui.com/views/card.html
+No site do vamos fazer o uso do **Cards** https://semantic-ui.com/views/card.html
 
 ![Card Group](/Image/Requisitos21.png)
 

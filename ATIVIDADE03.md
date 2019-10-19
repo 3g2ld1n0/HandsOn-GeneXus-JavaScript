@@ -30,7 +30,7 @@ O código a seguir mostra outra forma de organizar os scripts e arquivos de esti
 
 Na tag **link** e **script** estamos adicionado os arquivos de estilo CSS e script JS. Desta forma os códigos não ficaram na página, facilitando nossa vida quando necessário leva-los para outras páginas no desenvolvimento.
 
-Uma das tags **meta** a de nome **viewport** é adicionada para trabalhar na com a parte responsiva da página que será cuidade pelo Bootstrap.
+Uma das tags **meta** a de nome **viewport** é adicionada para trabalhar na com a parte responsiva da página que será cuidada pelo Bootstrap.
 
 Crie um novo arquivo **Atividade03.html** e copie todo o código.
 
@@ -127,7 +127,7 @@ Exemplos de criação de váriaveis.
 ![Variáveis](/Image/Requisitos11.png)
 
 ### Dicas  
-Notem que para o JavaScript existe uma situação que a ordem dos "Tratores" sim, altera o "Viadulto". 
+Notem que para o JavaScript existe uma situação que a ordem dos "Tratores" sim, altera o "Viaduto". 
 
 E trabalhando com desenvolvimento web, não importa o código que você está escrevendo, mas sim o que foi gerado.
 

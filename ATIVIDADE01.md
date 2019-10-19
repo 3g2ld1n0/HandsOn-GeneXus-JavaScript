@@ -72,6 +72,6 @@ Fazer o download do arquivo atividade1.zip. Descompactar e copiar os arquivos pa
 
 - [Atividade1.zip](https://github.com/3g2ld1n0/HandsOn-GeneXus-JavaScript/blob/master/Arquivos/Atividade01.zip)
 
-Abra o arquivo HTML criado e vamos ver o resultado.
+Abra o arquivo HTML criado com o Browser e vamos ver o resultado.
 
 Próxima atividade: [Atividade 02](ATIVIDADE02.md)

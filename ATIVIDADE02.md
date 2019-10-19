@@ -31,7 +31,7 @@ function myFunction() {
 </html>
 ```
 
-Abra o arquivo HTML criado e vamos ver o resultado.
+Abra o arquivo HTML criado com o Browser e vamos ver o resultado.
 
 ## Corpo (Body)
 
@@ -60,6 +60,6 @@ function myFunction() {
 </html>
 ```
 
-Abra o arquivo HTML criado e vamos ver o resultado.
+Abra o arquivo HTML criado com o Browser e vamos ver o resultado.
 
 Próxima atividade: [Atividade 03](ATIVIDADE03.md)

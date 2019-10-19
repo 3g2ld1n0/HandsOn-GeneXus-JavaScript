@@ -1,6 +1,8 @@
 # Atividade 08
 
-Nesta atividade vamos fazer criar as mesmas rotinas adicionando novos elementos na criação e utilização dentro do GeneXus.
+Nesta atividade vamos fazer criar as mesmas rotinas usando TypeScript e External Objects for JavaScript dentro do GeneXus, usando uma abordagem diferente.
+
+**Documentação GeneXus** https://wiki.genexus.com/commwiki/servlet/wiki?31064,External+Objects+for+Javascript#targetText=The%20JavaScript%20External%20Name%20property,defined%20in%20the%20JS%20code.
 
 ## Exercício
 

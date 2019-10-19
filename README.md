@@ -1,5 +1,5 @@
 # HandsOn-GeneXus-JavaScript
-HandsOn com introdução com JavaScript e JavaScript usado em GeneXus.
+HandsOn de introdução de JavaScript e JavaScript usado no GeneXus.
 
 Antes de continuarmos, ai vem um pouco de história.
 

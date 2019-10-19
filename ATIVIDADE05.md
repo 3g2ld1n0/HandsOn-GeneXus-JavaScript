@@ -4,7 +4,7 @@ Nesta atividade vamos entender, o valor do TypeScript para o nosso dia a dia.
 
 ## Exercício
 
-Vamos criar um novo arquivo chamado **Atividade05.html**, sem seguida copiar o código a abaixo.
+Vamos criar um novo arquivo chamado **Atividade05.html**, em seguida copiar o código a abaixo.
 
 ```html
 <!DOCTYPE html>
